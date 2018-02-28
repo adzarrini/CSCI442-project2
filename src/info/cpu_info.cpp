@@ -7,7 +7,7 @@ using namespace std;
 
 
 vector<CpuInfo> get_cpu_info() {
-  // TODO: implement me
+  // Implemented
 	vector<CpuInfo> cpuInfo;
 
 	ifstream stat(PROC_ROOT "/stat");
@@ -26,6 +26,8 @@ vector<CpuInfo> get_cpu_info() {
 		}
 
 	}
+
+	stat.close();
 
   return cpuInfo;
 }

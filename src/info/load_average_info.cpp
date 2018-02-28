@@ -6,7 +6,7 @@ using namespace std;
 
 
 LoadAverageInfo get_load_average() {
-  // TODO: implement me
+  // Implemented
 	LoadAverageInfo aveInfo;
 
 	ifstream loadavg (PROC_ROOT "/loadavg");

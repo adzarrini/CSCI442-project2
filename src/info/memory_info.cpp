@@ -7,7 +7,7 @@ using namespace std;
 
 
 MemoryInfo get_memory_info() {
-  // TODO: implement me
+  // Implemented
 
 	MemoryInfo memInfo;
 
