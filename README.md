@@ -165,3 +165,7 @@ machines prior to submitting them.
 Start early and ask questions!
 
 ...or not. I'm a sign, not a cop. =)
+
+
+# Graded
+ * D1 score: 20/20
