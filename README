@@ -1,0 +1,19 @@
+Allee Zarrini
+
+Hours Spent: 25 hr
+
+Files and what they do:
+main.cpp, in charge of displaying data using the system information that was taken from the various files
+All files in the info/ directory are used to modularly organize and get the information from various files.
+This includes the processes, memory, calculation of some other variables in the system, cpu information, timing, and more.
+They are organized by their names in the file. Very good naming scheme for these files. Mostly just read in values from other files.
+
+No unusual/intersesting features. May not fully work on the first try. Might have to run more than once. Should work mostly.
+Code may act unusually and break process. Very rare. Could not find bug.
+Assitance from other students was essential in completing this project. 
+
+Ideal terminal size: resize to fit
+full screen is best choice. Columns: ~46 Rows: ~7
+ 
+
+
